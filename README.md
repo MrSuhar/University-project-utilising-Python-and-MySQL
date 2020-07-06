@@ -1,10 +1,11 @@
+Project created during one of University courses. It's a very simple Python console aplication allowing connection with MySQL server (by default it's localhost). Both application and description below are in Polish only (as for now).
 # Temat projektu
 Tematem Projektu jest klub studencki - taki jak np. koła naukowe czy też stowarzyszenie fanów gier planszowych.  
 
 | Nazwisko i imię | Wydział | Kierunek | Semestr | Grupa | Rok akademicki |
 | :-------------: | :-----: | :------: | :-----: | :---: | :------------: |
 | Bartosz Kozłowski        | WIMiIP  | IS       |   4     | 2     | 2019/2020      |
-| Jakub Kopeć         | WIMiIP  | IS       |   4     | 3     | 2019/2020      |
+| Jakub .....         | WIMiIP  | IS       |   4     | 3     | 2019/2020      |
 
 ## Projekt bazy danych
 ![Projekt](https://github.com/phajder-databases/db2020-project-klub-studencki/blob/master/src/sql/ProjektDB.svg?raw=true)
