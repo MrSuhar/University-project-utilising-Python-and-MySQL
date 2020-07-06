@@ -1,0 +1,2 @@
+chmod u+x ./aplikacja.py
+python ./aplikacja.py
