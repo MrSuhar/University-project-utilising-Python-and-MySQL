@@ -1,4 +1,4 @@
-Project created during one of University courses. It's a very simple Python console aplication allowing connection with MySQL server (by default it's localhost). Both application and description below are in Polish only (as for now).
+Project created during one of my university courses. It's a very simple Python console aplication allowing connection and simple queries within MySQL server (by default it's localhost). Both application and description below are in Polish only (as for now).
 # Temat projektu
 Tematem Projektu jest klub studencki - taki jak np. koła naukowe czy też stowarzyszenie fanów gier planszowych.  
 
